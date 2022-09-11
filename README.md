@@ -3,7 +3,7 @@ This repository is created for making the data augumentation work more explainab
 
 ## Demo app
 Link for demo application is provided below
-[https://image-augmentation.herokuapp.com/](https://image-augmentation.herokuapp.com/)
+[https://imageaugmentation.herokuapp.com/](https://imageaugmentation.herokuapp.com/)
 
 ## How to use this software for development in local?
 
