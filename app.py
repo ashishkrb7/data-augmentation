@@ -17,7 +17,7 @@ img_byte_arr = BytesIO()
 
 PAGE_CONFIG = {
     "page_icon": "🤖",
-    "page_title": "Augument",
+    "page_title": "Augment",
     "layout": "wide",
     "initial_sidebar_state": "auto",
 }
