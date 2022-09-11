@@ -62,7 +62,7 @@ It will be available at http://DOCKER_HOST_IP:5000
    # Build docker image 
    docker build -t imageaugmentation:v1 .
    # Run docker container 
-   docker run -p 5000:5000 -itd --name demo imageaugmentation:v1 
+   docker run -p 5000:5000 -v <Your image folder>:/usr/src/app/images -itd --name demo 
    # Remove the container after usage
    docker rm demo -f
 ```
