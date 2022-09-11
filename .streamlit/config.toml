@@ -5,11 +5,11 @@ backgroundColor="#ffffff"
 secondaryBackgroundColor="#d6d4d4"
 textColor="#000000"
 font="serif"
-[server]
-port = 5000
-headless = true
-enableCORS=true
-[browser]
+#[server]
+#port = 5000
+#headless = true
+#enableCORS=true
+#[browser]
 #serverAddress = "localhost" # Put your Local IP or Domain Name
 #serverPort = 5000  
 
