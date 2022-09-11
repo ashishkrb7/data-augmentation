@@ -1,0 +1,16 @@
+.row-widget.stDownloadButton>button:hover {
+    background-color: #039139;
+    color: #ffffff;
+}
+
+footer:after {
+    content: 'Copyright (c) 2022 Ashish Kumar \A (MIT License)';
+    visibility: visible;
+    display: block;
+    /* position: relative; */
+    text-align: center;
+    padding: 5px;
+    top: 2px;
+    font-size: 12px;
+    white-space: pre;
+}

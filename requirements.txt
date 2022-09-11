@@ -1,0 +1,5 @@
+albumentations==1.2.1
+numpy==1.23.3
+setuptools==63.4.1
+streamlit==1.12.2
+pillow==9.2.0
